@@ -1,5 +1,5 @@
 # Registro
-Tela de login com validação de usuario
+Tela de login simples com validação de usuário
 
 # Dependências 
 Boostrap 
